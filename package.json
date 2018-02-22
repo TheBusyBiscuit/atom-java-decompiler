@@ -1,0 +1,22 @@
+{
+  "name": "atom-java-decompiler",
+  "main": "./lib/atom-java-decompiler",
+  "version": "0.0.0",
+  "description": "This package allows you to open .class (Java) files and see a decompiled Version of this file. Decompiler: procyon",
+  "keywords": [
+      "java",
+      "decompile",
+      "class"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-java-decompiler:toggle"
+  },
+  "repository": "https://github.com/TheBusyBiscuit/atom-java-decompiler",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "temp": "^0.8.3"
+  }
+}
