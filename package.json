@@ -8,9 +8,6 @@
     "decompile",
     "class"
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-java-decompiler:toggle"
-  },
   "repository": "https://github.com/TheBusyBiscuit/atom-java-decompiler",
   "license": "MIT",
   "engines": {
