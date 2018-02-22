@@ -1,7 +1,7 @@
 {
   "name": "atom-java-decompiler",
   "main": "./lib/atom-java-decompiler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This package allows you to open .class (Java) files and see a decompiled Version of this file. Decompiler: procyon",
   "keywords": [
     "java",
